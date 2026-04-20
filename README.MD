@@ -96,10 +96,6 @@ Stats_Play/
 │   ├── main.py             # FastAPI app with all endpoints
 │   └── requirements.txt
 │
-├── source/
-│   └── PRD.MD              # Product Requirements Document
-│
-├── Agent.MD                # Product strategy and vision
 └── package.json            # Root scripts (dev:all, install:all)
 ```
 
