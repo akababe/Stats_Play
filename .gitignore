@@ -2,3 +2,6 @@
 /source
 /Agent.MD
 /.agents
+skill-lock.json
+
+.gitignore
